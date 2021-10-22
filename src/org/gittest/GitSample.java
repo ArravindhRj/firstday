@@ -2,9 +2,13 @@ package org.gittest;
 
 public class GitSample {
 
+	
+	private void empId() {
+		System.out.println("Id : 123");
+	}
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 
+		System.out.println("Git");
 	}
 
 }
